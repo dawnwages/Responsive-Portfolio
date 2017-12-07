@@ -150,7 +150,7 @@
 		#me {
 			float: left;
 			margin: 5%;
-			width: 100%;
+			width: 95%;
 		}
 
 		.portfolio{
@@ -213,6 +213,7 @@
 			background-color: #fff;
 			float: left;
 			padding: 20px;
+			margin-bottom: 100px;
 		}
 
 		.icon{
